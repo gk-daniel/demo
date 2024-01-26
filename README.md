@@ -1,2 +1,1 @@
-# demo
-This repository is intended for temporary demonstration of various projects
+Could you tell me if you see this text
